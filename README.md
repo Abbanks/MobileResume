@@ -5,3 +5,13 @@ Mobile Resume features a comprehensive CV, showcasing personal and professional 
 
 ## Screenshots
 ![Img](https://github.com/Abbanks/MobileResume/assets/51162743/98cd9586-6694-4361-bb46-5c244b616ec5)
+
+## Libraries used
+I did not import a new library; I used the existing ones, which are:
+- Jetpack Compose is faster, easier to use, and requires less code.
+- Material Design is mostly used for theming, styling, and typography.
+- Android KTX: Used to write more concise, idiomatic Kotlin code.
+- Room Database
+- Hilt
+- AndroidX Navigation
+- Kotlin Coroutines
